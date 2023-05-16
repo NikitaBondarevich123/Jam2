@@ -25,7 +25,7 @@ public class ProgressBar : MonoBehaviour
     {
         if (slider.value == 1)
         {
-            SceneManager.LoadScene(4);
+            SceneManager.LoadScene(5);
         }
     }
  

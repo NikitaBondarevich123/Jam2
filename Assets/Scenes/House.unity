@@ -200,7 +200,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 30588281}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.88, y: 4.24, z: 0}
+  m_LocalPosition: {x: 2.29, y: 3.69, z: 0}
   m_LocalScale: {x: 3.2911174, y: 3.1227734, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -244,7 +244,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -684.1, y: -226.29}
+  m_AnchoredPosition: {x: -736, y: -299}
   m_SizeDelta: {x: 311.23, y: 452.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &119891022
@@ -418,7 +418,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 166276477}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.969, y: 3.286, z: 0}
+  m_LocalPosition: {x: 2.28, y: 2.77, z: 0}
   m_LocalScale: {x: 2.9531, y: 2.7233, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -845,7 +845,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -930,7 +930,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -360.22, y: -226.29}
+  m_AnchoredPosition: {x: -395, y: -303}
   m_SizeDelta: {x: 336.53, y: 452.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &753361335

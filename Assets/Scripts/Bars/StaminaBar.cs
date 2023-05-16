@@ -33,8 +33,9 @@ public class StaminaBar : MonoBehaviour
         }
         else
         {
-            SceneManager.LoadScene(2);
-        }    }
+            SceneManager.LoadScene(3);
+        }    
+    }
 
     public void Restaminization()
     {

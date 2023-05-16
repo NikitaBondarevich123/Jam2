@@ -93,10 +93,13 @@ public class DialogueManager : MonoBehaviour
             dialogueText.text = currentStory.Continue();
             DisplayChoices();
         }
+        /*
         else
         {
             ExitDialogueMode();
+            HideChoices();
         }
+        */
     }
 
      private void HideChoices() 
